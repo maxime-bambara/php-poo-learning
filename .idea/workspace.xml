@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c87b947-1a28-486a-b3f2-3454dcd88d95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_1/src/Univers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_1/src/World/World.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_final/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer_autoload/ex_final/src/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions_methodes_magiques/ex_final/Human.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/ex_1/User.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/ex_2/schema.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/ex_final/schema.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions_methodes_magiques/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions_methodes_magiques/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions_methodes_magiques/ex_final/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions_methodes_magiques/ex_final/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mux0QwS8AcnrwgynGfPpYpmKYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uml" />
+      <recent name="$PROJECT_DIR$/composer_autoload/ex_1/src" />
+      <recent name="$PROJECT_DIR$/composer_autoload" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c87b947-1a28-486a-b3f2-3454dcd88d95" name="Default Changelist" comment="" />
+      <created>1610357053325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610357053325</updated>
+      <workItem from="1610357054535" duration="5938000" />
+      <workItem from="1610373062180" duration="164000" />
+      <workItem from="1610373229396" duration="92000" />
+      <workItem from="1610373473937" duration="229000" />
+      <workItem from="1610373825730" duration="883000" />
+      <workItem from="1610374914857" duration="122000" />
+      <workItem from="1610375066536" duration="207000" />
+      <workItem from="1610375315944" duration="499000" />
+      <workItem from="1610377981024" duration="3210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1176" y="342" key="#Notifications" timestamp="1610378001246">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1176" y="342" key="#Notifications/0.23.1920.977@0.23.1920.977" timestamp="1610378001246" />
+    <state x="1244" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1610361272960">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1244" y="234" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1610361272960" />
+    <state x="1023" y="244" key="NewPhpClassDialog" timestamp="1610361109341">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1023" y="244" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1610361109341" />
+    <state x="1264" y="442" key="NewPhpFileDialog" timestamp="1610361079481">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1264" y="442" key="NewPhpFileDialog/0.23.1920.977@0.23.1920.977" timestamp="1610361079481" />
+    <state x="938" y="150" key="SettingsEditor" timestamp="1610378059922">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="938" y="150" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1610378059922" />
+  </component>
+</project>

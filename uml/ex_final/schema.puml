@@ -1,0 +1,36 @@
+@startuml
+
+Player o-- Card
+Card *--CardDeck
+
+class Player {
+    - cards : array
+    - money : int
+
+    + draw(card)
+    + checkIfWin() : bool
+    + win() : void
+    + loose() : void
+    + getMoney() : int
+    + getCards() : array
+}
+
+class Card {
+    - figure : int
+    - color : string
+    - type : string
+
+    + __construct(figure, color, type)
+    + getFigure() : int
+    + getColor() : string
+    + getType() : string
+
+}
+
+class CardDeck {
+    - cards : array
+    +getCards()
+    +setCards()
+}
+
+@enduml

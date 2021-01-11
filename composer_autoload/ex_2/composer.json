@@ -1,0 +1,17 @@
+{
+    "name": "maximebambara/ex_2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maxime Bambara",
+            "email": "maxime.f.bambara@gmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.9"
+    },
+    "autoload": {
+        "psr-4": { "APP\\": "src/" }
+    }
+
+}

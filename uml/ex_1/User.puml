@@ -1,0 +1,10 @@
+@startuml
+class User {
+  - friends: array
+  + getFriends(): array
+  + addFriend(Friend)
+  + removeFriend(Friend)
+  + likeVideo(): void
+  + writeComment(): void
+}
+@enduml

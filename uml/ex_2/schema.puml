@@ -1,0 +1,12 @@
+@startuml
+
+Person *-- Heart
+Person *-- Hand
+
+City o-- Tree
+City o-- Car
+
+Pond *-- Water
+Pond o-- Duck
+
+@enduml

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8a13120-ef6d-43ed-bbbd-ae4abda7e3ed" name="Default Changelist" comment="" />
+    <list default="true" id="f8a13120-ef6d-43ed-bbbd-ae4abda7e3ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex_final/Human.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_final/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ex_final/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +32,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1msen2kRlXCNM1B69DdC3gbqle7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,21 +63,33 @@
       <option name="presentableId" value="Default" />
       <updated>1610286888297</updated>
       <workItem from="1610286889318" duration="2282000" />
+      <workItem from="1610355566343" duration="1421000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1253" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1610286988145">
+    <state x="1253" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1610355805749">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="1253" y="234" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1610286988145" />
-    <state x="1020" y="244" key="NewPhpClassDialog" timestamp="1610290638911">
+    <state x="1253" y="234" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1610355805749" />
+    <state x="1020" y="244" key="NewPhpClassDialog" timestamp="1610355624525">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="1020" y="244" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1610290638911" />
+    <state x="1020" y="244" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1610355624525" />
     <state x="1264" y="442" key="NewPhpFileDialog" timestamp="1610290665010">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -58,5 +98,16 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1105" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1610289379871" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ex_final/Human.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
